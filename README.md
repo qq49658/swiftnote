@@ -1,2 +1,2 @@
-# swiftnote
+# SwiftNote
 swift笔记
